@@ -1,0 +1,11 @@
+{
+	"name": "test project for js lib discovery",
+	"version": "1.0.0",
+	"dependencies": {
+		"prop-types": "*",
+		"react": "*",
+		"react-dom": "*",
+		"react-redux": "*",
+		"redux": "*"
+	}
+}
